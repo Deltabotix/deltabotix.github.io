@@ -20,7 +20,7 @@
     "targetRelId": "",
     "targetUrl": "",
     "targetId": "arcade",
-    "simUrl": "/simulator.html",
+    "simUrl": "https://trg-arcade.userpxt.io/---simulator",
     "simserviceworkerUrl": "/simulatorserviceworker.js",
     "simworkerconfigUrl": "/workerConfig.js",
     "partsUrl": "/siminstructions.html",
